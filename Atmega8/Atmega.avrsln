@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "1", "1\1.avrgccproj", "{3FDD25B1-9283-4519-8D30-55A65F84EBAE}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "2", "2\2.avrgccproj", "{F1AD0092-1D0F-4DFA-8267-2ED1DB48A86A}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "dynamic indication", "dynamic indication\dynamic indication.avrgccproj", "{EBC9570E-80FD-47BC-83A8-C496BDA78B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FDD25B1-9283-4519-8D30-55A65F84EBAE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3FDD25B1-9283-4519-8D30-55A65F84EBAE}.Debug|AVR.Build.0 = Debug|AVR
+		{3FDD25B1-9283-4519-8D30-55A65F84EBAE}.Release|AVR.ActiveCfg = Release|AVR
+		{3FDD25B1-9283-4519-8D30-55A65F84EBAE}.Release|AVR.Build.0 = Release|AVR
+		{F1AD0092-1D0F-4DFA-8267-2ED1DB48A86A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F1AD0092-1D0F-4DFA-8267-2ED1DB48A86A}.Debug|AVR.Build.0 = Debug|AVR
+		{F1AD0092-1D0F-4DFA-8267-2ED1DB48A86A}.Release|AVR.ActiveCfg = Release|AVR
+		{F1AD0092-1D0F-4DFA-8267-2ED1DB48A86A}.Release|AVR.Build.0 = Release|AVR
+		{EBC9570E-80FD-47BC-83A8-C496BDA78B08}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EBC9570E-80FD-47BC-83A8-C496BDA78B08}.Debug|AVR.Build.0 = Debug|AVR
+		{EBC9570E-80FD-47BC-83A8-C496BDA78B08}.Release|AVR.ActiveCfg = Release|AVR
+		{EBC9570E-80FD-47BC-83A8-C496BDA78B08}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
